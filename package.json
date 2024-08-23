@@ -9,7 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "@tailwindcss/typography": "^0.5.14",
+
     "@heroicons/react": "^2.1.5",
+
     "next": "14.2.6",
     "react": "^18",
     "react-dom": "^18"
