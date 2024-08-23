@@ -15,6 +15,7 @@ module.exports = {
         "wh-50": "#FBFBFB",
         "wh-100": "#C9C9C9",
         "wh-300": "#939393",
+
         "wh-500": "#595959",
         "wh-900": "#0F0F0F",
         "accent-red": "#EA9648",
