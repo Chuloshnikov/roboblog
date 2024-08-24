@@ -2,6 +2,10 @@ import React from 'react';
 
 type Props = {}
 
+
+const TrandingCard = {};
+
+
 const Trending = (props: Props) => {
   return (
     <section className='pt-3 pb-10'>
